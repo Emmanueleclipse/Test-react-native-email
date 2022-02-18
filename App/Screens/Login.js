@@ -21,8 +21,8 @@ const Login = ({ navigation, route }) => {
     const [loding, setLoding] = useState(false);
     const [loding1, setLoding1] = useState(false);
     const [username, setUserName] = useState('');
-    // const [username, setUserName] = useState('backmarche@gmail.com ');
-    // const [username, setUserName] = useState('adthedeveloper@gmail.com');
+    // const [username, setUserName] = useState('mdavis332@gmail.com ');
+    // const [username, setUserName] = useState('mdavis332@gmail.com');
     const [password, setPassword] = useState('');
     const [passwordView, setPasswordView] = useState(true);
 
